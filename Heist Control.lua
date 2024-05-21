@@ -1,5 +1,4 @@
 --[[   To everyone who uses Heist Control.lua
-    This is a fork of the orginal Hiest Control so I can add my own featurees.
 
     Developed and maintenanced by @icedoomfist on Discord
     This script is only compatible with Stand Lua API: https://stand.gg/
@@ -6957,4 +6956,4 @@
         end)
     end
 
---- End of script.
+---
